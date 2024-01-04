@@ -5,10 +5,11 @@
         string sequence = "1,2,1,1,0,3,1,0,0,2,4,1,0,0,0,0,2,1,0,3,1,0,0,0,6,1,3,0,0,0";
         int longSQ = GetLongestSq(sequence);
         //Console.WriteLine(longSQ);
-        ExerciseTwo();
+        //ExerciseTwo();
+        Stars();
     }
 
-        
+    /**********Problem1*********/
 
     static int GetLongestSq(string sequence)
     {
@@ -34,7 +35,7 @@
         return longestSQ;
     }
 
-
+    /**********Problem2*********/
     public static List<string> ExerciseTwo()
     {
         var dict = new List<string> { "parts", "traps", "arts", "rats", "starts", "tarts", "rat", "art", "tar", "tars", "stars", "stray" };
@@ -59,4 +60,21 @@
         return result;
 
     }
+
+
+    /**********Problem3*********/
+    public static void Stars() 
+    {
+        char charToPrint = '*';
+        int totalLines = 10;
+        for(int i = 1; i <= totalLines; i+=2)
+        {
+            int spacesBefore = (totalLines - i) / 2;
+            string lineP = new string(' ',spacesBefore) + new string(charToPrint, i);
+            Console.WriteLine(lineP);
+        }
+    
+    }
+
+
 }
