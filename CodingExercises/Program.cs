@@ -6,7 +6,8 @@
         int longSQ = GetLongestSq(sequence);
         //Console.WriteLine(longSQ);
         //ExerciseTwo();
-        Stars();
+        //Stars();
+        Diamond();
     }
 
     /**********Problem1*********/
@@ -76,5 +77,26 @@
     
     }
 
+
+    /**********Problem4*********/
+    public static void Diamond()
+    {
+        char charToPrint = '*';
+        int totalLines = 10;
+        int inverseLines = 7;
+        for (int i = 1; i <= totalLines; i += 2)
+        {
+            int spacesBefore = (totalLines - i) / 2;
+            string lineP = new string(' ', spacesBefore) + new string(charToPrint, i);
+            Console.WriteLine(lineP);
+        }
+        for (int i = 7; i >= 0; i -= 2)
+        {
+            int spacesBefore = (totalLines - i) / 2;
+            string lineP = new string(' ', spacesBefore) + new string(charToPrint, i);
+            Console.WriteLine(lineP);
+        }
+
+    }
 
 }
