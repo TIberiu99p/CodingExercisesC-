@@ -7,7 +7,8 @@
         //Console.WriteLine(longSQ);
         //ExerciseTwo();
         //Stars();
-        Diamond();
+        //Diamond();
+        ReverseStr("hello world");
     }
 
     /**********Problem1*********/
@@ -83,7 +84,7 @@
     {
         char charToPrint = '*';
         int totalLines = 10;
-        int inverseLines = 7;
+       
         for (int i = 1; i <= totalLines; i += 2)
         {
             int spacesBefore = (totalLines - i) / 2;
@@ -97,6 +98,25 @@
             Console.WriteLine(lineP);
         }
 
+    }
+
+
+    public static string ReverseStr(string param) 
+    {
+        string[] words = param.Split(' ');
+        List<string> reveseWord = new List<string>();
+        foreach(var word in words)
+        {
+            char[] charArr = word.ToCharArray();
+            Array.Reverse(charArr);
+            reveseWord.Add(new string(charArr));
+        
+        }
+        reveseWord.Reverse();
+        string result = string.Join(" ", reveseWord);
+        Console.WriteLine(result);
+        return result;
+    
     }
 
 }
