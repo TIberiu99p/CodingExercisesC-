@@ -1,0 +1,15 @@
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.AssemblyInfoInputs.cache
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.AssemblyInfo.cs
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.csproj.CoreCompileInputs.cache
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.sourcelink.json
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\bin\Debug\net7.0\CodingExercises.exe
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\bin\Debug\net7.0\CodingExercises.deps.json
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\bin\Debug\net7.0\CodingExercises.runtimeconfig.json
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\bin\Debug\net7.0\CodingExercises.dll
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\bin\Debug\net7.0\CodingExercises.pdb
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.dll
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\refint\CodingExercises.dll
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.pdb
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\CodingExercises.genruntimeconfig.cache
+C:\Users\pahar\OneDrive\Desktop\Peregrine\Work\CodingExercisesC-\CodingExercises\obj\Debug\net7.0\ref\CodingExercises.dll
